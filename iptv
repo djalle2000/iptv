@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,spongeBob S11E01
+#EXTINF:-1 tvg-name="spongeBob S11E01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/SpongeBob_S11.jpg/1280px-SpongeBob_S11.jpg" group-title="spongeBob",spongeBob S11E01
 https://s403d4.akwam.link/download/1650666522/6261da9a7a86d/Spongebob.Squarepants.S11E01.720p.WEB-DL.AKWAM.mp4
-#EXTINF:-1,spongeBob S11E02
+#EXTINF:-1 tvg-name="spongeBob S11E02" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/SpongeBob_S11.jpg/1280px-SpongeBob_S11.jpg" group-title="spongeBob",spongeBob S11E02
 https://s321d1.akwam.link/download/1650666592/6261dae07ff00/Spongebob.Squarepants.S11E02.720p.WEB-DL.AKWAM.mp4
-#EXTINF:-1,spongeBob S11E03
+#EXTINF:-1 tvg-name="spongeBob S11E03" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/SpongeBob_S11.jpg/1280px-SpongeBob_S11.jpg" group-title="spongeBob",spongeBob S11E03
 https://s321d1.akwam.link/download/1650666785/6261dba18394e/Spongebob.Squarepants.S11E03.720p.WEB-DL.AKWAM.mp4
 #EXTINF:-1,spongeBob S11E04
 https://s320d1.akwam.link/download/1650666932/6261dc3427526/Spongebob.Squarepants.S11E04.720p.WEB-DL.AKWAM.mp4
